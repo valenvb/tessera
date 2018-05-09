@@ -14,7 +14,7 @@
     "prepublish": "npm install bower && bower install"
   },
   "dependencies": {
-    "@mapbox/abaculus": "^2.1.0",
+    "@mapbox/abaculus": "^3.0.0",
     "cachecache": "^1.0.1",
     "clone": "^1.0.2",
     "cors": "^2.5.2",
